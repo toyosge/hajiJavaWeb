@@ -1,1 +1,21 @@
-server send message.
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2016 05:45:41 GMT
+Server: Apache/2.4.16 (Unix)
+Last-Modified: Sat, 02 Jul 2016 02:36:22 GMT
+ETag: "bd-5369df7fef580"
+Accept-Ranges: bytes
+Content-Length: 189
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="test.css">
+</head>
+<body>
+<h1>massan don't you? </h1>
+<p>this is a test page</p>
+<img src="PoweredByMacOSX.gif"/>
+</body>
+</html>
